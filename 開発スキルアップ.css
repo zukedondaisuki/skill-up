@@ -439,6 +439,11 @@ footer p {
     width:100%;
     margin:0 auto;
   }
+  
+  .portfolio-text-content {
+    width:90%;
+    margin:0 auto;
+  }
 
   .portfolio-content {
     width:90%;
@@ -464,6 +469,11 @@ footer p {
     width:100%;
   }
 
+  .feature-text-content {
+    width:90%;
+    margin:0 auto;
+  }
+
   .feature-box-content {
     width:90%;
     display:block;
@@ -482,6 +492,11 @@ footer p {
 
   .profile {
     width:100%;
+  }
+
+  .profile-text-content {
+    width:90%;
+    margin:0 auto;
   }
 
   .profile-content {
@@ -506,6 +521,11 @@ footer p {
 
   .contact {
     width:100%;
+  }
+
+  .contact-text-content {
+    width:90%;
+    margin:0 auto;
   }
 
   .contact-box {
